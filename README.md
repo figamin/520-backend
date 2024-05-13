@@ -15,4 +15,4 @@ The purpose of the project is to streamline the process of making restaurant res
 
 
 ### Configuration
-It is improtant to note that when npm installed, there will be a package-lock.json file that is automatically generated. This file should not be modified manually as it is used to ensure reproducible builds by locking down dependency versions. Additionally, there will be a node_modules folder created that contains valuable files such as env.js and settings. These files are necessary to ensure the API used in the project are called correctly, and no issues come up if the enviroment variables or settings are modified. 
+It is important to note that when npm installed, there will be a package-lock.json file that is automatically generated. This file should not be modified manually as it is used to ensure reproducible builds by locking down dependency versions. Additionally, there will be a node_modules folder created that contains valuable files such as env.js and settings. These files are necessary to ensure the API used in the project are called correctly, and no issues come up if the environment variables or settings are modified. 
