@@ -7,8 +7,8 @@ Below is a listing each team member’s contributions to the project.
 Khoa’s Contributions: 
 - Helped set up and connect the MongoDB database with the project
 - StephenKhoaUmass-patch-1 branch:
- Update and delete unnecessary files in the backend part
- Create tests for the backend part in the tests folder using tools like Mocha and Chai
+  + Update and delete unnecessary files in the backend part
+  + Create tests for the backend part in the tests folder using tools like Mocha and Chai
 
 - addFrontend branch: create some tests for the frontend part in the tests folder:
 
